@@ -23,3 +23,8 @@ This is a place where I will put all my notes from videos and courses about ML.
     - I have written NN in Matlab before, going to do the same in my favorite language JavaScript
 - This article looks nice, just $25
     - ["Dynamic classification of ballistic missiles using neural networks and hidden Markov models" ](https://www.sciencedirect.com/science/article/abs/pii/S1568494614000854)
+
+## November
+
+- I have paused a bit to catch my work @Trustisto 
+- Yet again great Andrej video about LLM's [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
