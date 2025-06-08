@@ -28,3 +28,4 @@ This is a place where I will put all my notes from videos and courses about ML.
 
 - I have paused a bit to catch my work @Trustisto 
 - Yet again great Andrej video about LLM's [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- ping
